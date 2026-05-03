@@ -10,7 +10,7 @@ Binary factors that take values in {0, 1} or {−1, 1} (e.g., Alpha#21) are di
 
 ## Installation
 
-Install the package directly from PyPI:
+[**I changed the install requirement to 3.11 so don't just install through PyPI unless you have 3.13**]Install the package directly from PyPI:
 
 ```bash
 pip install alpha101
